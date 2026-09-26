@@ -57,7 +57,7 @@ keiry-product-article/
 把仓库克隆到 Codex 的 Skills 目录。
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/keiry-product-article.git ~/.codex/skills/keiry-product-article
+git clone https://github.com/khu016/khu-product-article.git ~/.codex/skills/keiry-product-article
 ```
 
 如果已经下载到本地，也可以复制整个目录。
